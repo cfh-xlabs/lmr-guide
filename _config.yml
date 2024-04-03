@@ -1,5 +1,4 @@
 # GitHub Pages Config
 name: lmr-guide
 markdown: kramdown
-theme: default
 math: true
