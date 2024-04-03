@@ -1,3 +1,8 @@
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+
 # lmr-guide: An XLabs Guide to CFD
 A guide for the use of [eilmer](https://gdtk.uqcloud.net/docs/eilmer/about/) and the broader [Gas Dynamics Toolkit](https://gdtk.uqcloud.net) for problems of interest to the Centre for Hypersonics, xlabs.
 
