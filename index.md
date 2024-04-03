@@ -1,4 +1,2 @@
-# A Guide on the Use of Eilmer for XLABS Problems (lmr-guide)
-
-## Test hdr
-Test ln
+# lmr-guide
+A guide for the use of [eilmer](https://gdtk.uqcloud.net/docs/eilmer/about/) and the broader [Gas Dynamics Toolkit](https://gdtk.uqcloud.net) for problems of interest to the Centre for Hypersonics, xlabs.
