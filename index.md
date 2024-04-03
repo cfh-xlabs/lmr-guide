@@ -22,5 +22,5 @@ def Alpha()
 ```
 
 ## Testing math
-$$\int_{t=0}^t=t_{\alpa}$$
+$\int_{t=0}^t=t_{\alpha}$
 
