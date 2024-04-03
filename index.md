@@ -24,3 +24,5 @@ def Alpha()
 ## Testing math
 $\int_{t=0}^t=t_{\alpha}$
 
+^ this does not work yet, will migrate to jekyl to make everything easier.
+
